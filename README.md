@@ -72,9 +72,9 @@ To check remote url
 git remote -v
 ```
 apu key-dbcb58d6-3b0b-4f9d-9f95-cb8b16d8981c
-1. HEROKU_EMAIL=balabkrish@gmail.com
-2. HEROKU_API_KEY=dbcb58d6-3b0b-4f9d-9f95-cb8b16d8981c
-3. HEROKU_APP_NAME=
+1. HEROKU_EMAIL = balabkrish@gmail.com
+2. HEROKU_API_KEY = dbcb58d6-3b0b-4f9d-9f95-cb8b16d8981c
+3. HEROKU_APP_NAME = ml-regression-app1206
 
 ## Start Machine Learning project.
 
@@ -172,5 +172,4 @@ Tos stop docker conatiner
 ```
 docker stop <container_id>
 ```
-
 
